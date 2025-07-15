@@ -76,3 +76,14 @@ body::before{
     font-size: 14px;
     margin-top: 10px;
 }
+
+.price-box {
+    margin-top: 16px;
+}
+
+.discount {
+    font-size: 20px;
+    margin: 10px 0 0 12px;
+    position: relative;
+    color:#737373;
+}
