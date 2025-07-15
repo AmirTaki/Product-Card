@@ -48,7 +48,7 @@ body::before{
     top:0;
     height: 100%;
     width: 100%;
-    /* background-color: red; */
+    background-color: red;
     clip-path: circle(65% at right 35%);
     border-radius: 12px;
     background-image: linear-gradient(135ddeg, #fd9bb0 10%, #F6416c 100%);    
@@ -118,3 +118,16 @@ body::before{
     cursor: pointer;
     transition : all .3 ease
 }
+
+.button1 button:hover {
+    transform : scale(.98)
+}
+
+.container .box.tow .image {
+    position: relative;
+    right: 0;
+    top:0;
+    height: 340px;
+    width:430px;
+}
+
