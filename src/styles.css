@@ -97,3 +97,8 @@ body::before{
     top:50%;
     left:-8px
 }
+
+.price {
+    color:#fc6989;
+    font-size: 30px;
+}
