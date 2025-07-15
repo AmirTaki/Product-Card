@@ -87,3 +87,13 @@ body::before{
     position: relative;
     color:#737373;
 }
+
+.discount::before{
+    content: '';
+    position: absolute;
+    height: 1px;
+    width:100px;
+    background: #737373;
+    top:50%;
+    left:-8px
+}
