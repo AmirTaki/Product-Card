@@ -40,3 +40,16 @@ body::before{
     box-shadow: 0 5px 10px rgba(0, 0, 0, .15);
     position: relative;
 }
+
+.container::before{
+    content: '';
+    position: absolute;
+    left:0;
+    top:0;
+    height: 100%;
+    width: 100%;
+    /* background-color: red; */
+    clip-path: circle(65% at right 35%);
+    border-radius: 12px;
+    background-image: linear-gradient(135ddeg, #fd9bb0 10%, #F6416c 100%);    
+}
