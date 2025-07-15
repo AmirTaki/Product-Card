@@ -102,3 +102,19 @@ body::before{
     color:#fc6989;
     font-size: 30px;
 }
+
+.button1{
+    margin-top: 55px;
+}
+.button1 button{
+    outline: none;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 6px;
+    font-size: 18px;
+    font-weight:500;
+    color:#fff;
+    background: #00e6e6;
+    cursor: pointer;
+    transition : all .3 ease
+}
