@@ -143,3 +143,14 @@ body::before{
     bottom: 27px;
     text-align: right;
 }
+
+.info{
+    margin : 0 35px 0 0 
+}
+
+.brand {
+    font-size : 17px;
+    font-weight : 600;
+    color: #c9032e;
+}
+
