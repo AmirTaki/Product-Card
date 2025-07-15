@@ -58,3 +58,8 @@ body::before{
     /* background-color: blue; */
     padding: 35px 5px 0 35px;
 }
+
+.details .topic {
+    font-size: 30px;
+    font-weight : 500
+}
