@@ -69,3 +69,10 @@ body::before{
     font-weight : 500;
     font-size:13px;
 }
+
+
+.rating {
+    color: #fd9bb0;
+    font-size: 14px;
+    margin-top: 10px;
+}
